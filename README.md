@@ -7,7 +7,7 @@ Your task is to write an algorithm which solves a drawn crossword puzzle. The dr
 - between the boxes filled with different colour there does not have to be an empty box
 - the order of the numbers in the legend sets the order of the blocks of the boxes
 
-Input
+**Input**
 
 The program is going to read the file which it gets as the first argument and which has got the following format:
 
